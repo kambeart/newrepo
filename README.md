@@ -1,5 +1,5 @@
 ## Hey, I'm Xin 👋  
-### CS Student • Aspiring Solutions Architect • Cloud + Web Development + Data Analysis
+### CS Student  • Cloud + Web Development + Data Analysis
 
 I enjoy building systems at the intersection of **software engineering, cloud infrastructure, Web development, PowerBI**.  
 Always experimenting, shipping, and learning by doing.
